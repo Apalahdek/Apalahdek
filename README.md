@@ -1,5 +1,5 @@
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Riy%20Coders&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20ðŸ‘‹&image=https://avatars.githubusercontent.com/u/97500368?v=4&backgroundColor=%23ecf0f1&instagram=riycoders&github=riycoders&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Valz%20Store&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20ðŸ‘‹&image=https://avatars.githubusercontent.com/u/97500368?v=4&backgroundColor=%23ecf0f1&instagram=riycoders&github=riycoders&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center"> 
   Visitor Count<br>
@@ -7,7 +7,7 @@ src="https://cardivo.vercel.app/api?name=Riy%20Coders&description=Hi,%20i%27m%20
 </p>
 
 ## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-Hi, I'm Riy Coders, You Can call me as Riy.
+Hi, I'm Valzy, You Can call me as Valz.
 <br>
 
 ### Spotify Playing ðŸŽ§
