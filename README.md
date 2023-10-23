@@ -18,8 +18,8 @@ Hi, I'm Valzy, You Can call me as Valz.
 ### Stastik
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![riycoders github stats](https://github-readme-stats.vercel.app/api?username=riycoders&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riycoders&show_icons=true&layout=compact&theme=radical)
+![riycoders github stats](https://github-readme-stats.vercel.app/api?username=Apalahdek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apalahdek&show_icons=true&layout=compact&theme=radical)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
