@@ -1,5 +1,5 @@
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Valz%20Store&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20ðŸ‘‹&image=https://avatars.githubusercontent.com/u/97500368?v=4&backgroundColor=%23ecf0f1&instagram=riycoders&github=riycoders&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Valz%20Store&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20ðŸ‘‹&image=https://avatars.githubusercontent.com/u/97500368?v=4&backgroundColor=%23ecf0f1&instagram=riycoders&github=Apalahdek&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center"> 
   Visitor Count<br>
