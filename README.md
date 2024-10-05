@@ -12,7 +12,7 @@ Hi, I'm Valzy, You Can call me as Valz.
 
 ### Spotify Playing ðŸŽ§
 
-[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31xobrruoagakaesdodgipecaady?si=GU6K0gTMRqGHd4jqMXr_wg&utm_source=copy-link)
+[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31xobrruoagakaesdodgipecaady?si=odfzs1eZQQeYOFriBmkCsg)
 </br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=GU6K0gTMRqGHd4jqMXr_wg)
 
 ### Stastik
