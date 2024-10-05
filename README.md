@@ -14,7 +14,6 @@ Hi, I'm Valzy, You Can call me as Valz.
 
 [<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31xobrruoagakaesdodgipecaady?si=odfzs1eZQQeYOFriBmkCsg)
 </br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31x2dedeghljsbcfsfvkdrhehc4a)
-
 ### Stastik
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
